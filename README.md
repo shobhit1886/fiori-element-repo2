@@ -1,5 +1,5 @@
 # Getting Started
-## Topic: SAP CAP function and action implementation – A project made by Shobhit Srivastava
+## Topic: SAP CAP function and action implementation using SAP HANA cloud database – A project made by Shobhit Srivastava
 Welcome to my new project.
 
 It contains these folders and files, following our recommended project layout:
